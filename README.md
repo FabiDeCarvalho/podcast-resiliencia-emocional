@@ -21,7 +21,3 @@ Um podcast que explora a resiliência emocional com base nos conceitos de Daniel
 - [Ouça no Spotify](https://open.spotify.com)  
 - [Assista no Anchor](https://anchor.fm)  
 
-## Como contribuir
-1. Faça um fork do repositório.
-2. Adicione melhorias ou novos episódios.
-3. Envie um Pull Request para revisão.
